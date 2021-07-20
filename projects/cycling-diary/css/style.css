@@ -59,6 +59,10 @@ p {
   font-size: 3.5em;
   font-weight: 600;
 }
+.h3{
+  font-size: 2.4em;
+  font-weight: 400;
+}
 
 html {
   scroll-behavior: smooth;
@@ -280,6 +284,8 @@ ul {
   width: 100%;
   margin: 0 auto;
   line-height: 200%;
+  margin: 0 auto;
+  width: 80%;
 }
 
 .about-content {
@@ -528,9 +534,6 @@ blockquote blockquote {
     width: 60%
   }
 
-  .category-content {
-    width: 100%
-  }
 }
 
 @media only screen and (min-width:73.125em) {
@@ -539,7 +542,7 @@ blockquote blockquote {
   }
   .container {
     max-width: 120em;
-    width: 65%;
+    width: 80%;
     margin: 0 auto
   }
 
