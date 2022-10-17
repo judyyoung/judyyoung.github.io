@@ -291,8 +291,8 @@ a:hover .project-hover {
     }
 
     .project {
-        float: left;
         margin: 2em;
+        float: left;
     }
     /*deleted 
     .project.left{
